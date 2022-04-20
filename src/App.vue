@@ -234,7 +234,7 @@ css: {
         <code>
 {
   "stylelint.validate": [
-    {{ scss ? "scss" : "css" }},
+    {{ scss ? '"scss"' : '"css"' }},
     "vue"
   ]
 }
@@ -260,7 +260,7 @@ css: {
         <code>npm i -D @commitlint/cli @commitlint/config-conventional cz-conventional-changelog husky</code>
       </pre>
 
-      <strong>./src/commitlint.config.js:</strong>
+      <strong>src/commitlint.config.js</strong>
       <pre>
         <code>
 module.exports = {
