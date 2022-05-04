@@ -1,8 +1,8 @@
 {
   "recommendations": [
-    "EditorConfig.EditorConfig",
-    "johnsoncodehk.volar",
-    "johnsoncodehk.vscode-typescript-vue-plugin",
+    "editorConfig.editorConfig",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode"
   ]
