@@ -260,7 +260,7 @@ css: {
         <code>npm i -D @commitlint/cli @commitlint/config-conventional cz-conventional-changelog husky</code>
       </pre>
 
-      <strong>src/commitlint.config.js</strong>
+      <strong>commitlint.config.js</strong>
       <pre>
         <code>
 module.exports = {
