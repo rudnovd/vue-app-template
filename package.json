@@ -8,22 +8,22 @@
     "lint": "cross-env NODE_ENV=production eslint src --ext .vue,.ts --fix"
   },
   "dependencies": {
-    "vue": "^3.2.36"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
-    "@types/node": "^17.0.36",
-    "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^5.26.0",
+    "@types/node": "^18.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/parser": "^5.29.0",
     "@vitejs/plugin-vue": "^2.3.3",
     "cross-env": "^7.0.3",
-    "eslint": "^8.16.0",
+    "eslint": "^8.18.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-vue": "^9.0.1",
-    "prettier": "^2.6.2",
-    "typescript": "^4.7.2",
-    "vite": "^2.9.9",
-    "vue-eslint-parser": "^9.0.2",
-    "vue-tsc": "^0.35.0"
+    "eslint-plugin-vue": "^9.1.1",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4",
+    "vite": "^2.9.12",
+    "vue-eslint-parser": "^9.0.3",
+    "vue-tsc": "^0.38.1"
   }
 }
